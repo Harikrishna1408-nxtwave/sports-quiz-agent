@@ -1,0 +1,82 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "India won the ICC Cricket World Cup in 1983 under Kapil Dev."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Australia has won the ICC Cricket World Cup six times."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Virat Kohli is one of the fastest batsmen to reach 8000 ODI runs."
+  },
+  {
+    "sport": "Football",
+    "fact": "Argentina won the FIFA World Cup in 2022."
+  },
+  {
+    "sport": "Football",
+    "fact": "Lionel Messi won the Ballon d'Or a record eight times."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup is held every four years."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The NBA was founded in 1946."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "Michael Jordan won six NBA championships with the Chicago Bulls."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "A basketball team has five players on the court."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Wimbledon is the oldest tennis tournament in the world."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Novak Djokovic has won multiple Grand Slam titles."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "The Australian Open is played on a hard court."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "India won its first Thomas Cup in 2022."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "P. V. Sindhu won the BWF World Championship in 2019."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "A badminton match is played to 21 points per game."
+  },
+  {
+    "sport": "Hockey",
+    "fact": "India has won eight Olympic gold medals in field hockey."
+  },
+  {
+    "sport": "Hockey",
+    "fact": "The Hockey World Cup is organized by the FIH."
+  },
+  {
+    "sport": "Kabaddi",
+    "fact": "The Pro Kabaddi League started in 2014."
+  },
+  {
+    "sport": "Kabaddi",
+    "fact": "India has won multiple Kabaddi World Cup titles."
+  },
+  {
+    "sport": "Olympics",
+    "fact": "The modern Olympic Games began in 1896 in Athens."
+  }
+]
