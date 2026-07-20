@@ -59,7 +59,7 @@ sports-quiz-agent/
 ## ⚙️ Installation
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Harikrishna1408-nxtwave/sports-quiz-agent.git)
 
 cd sports-quiz-agent
 
