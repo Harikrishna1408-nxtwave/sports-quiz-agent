@@ -1,5 +1,4 @@
 import os
-
 from dotenv import load_dotenv
 from google import genai
 
@@ -16,7 +15,7 @@ if not API_KEY:
 
 if not API_KEY:
     raise ValueError(
-        "GEMINI_API_KEY not found. Configure it in a local .env file or Streamlit Secrets."
+        "GEMINI_API_KEY not found. Configure it in .env or Streamlit Secrets."
     )
 
 client = genai.Client(api_key=API_KEY)
