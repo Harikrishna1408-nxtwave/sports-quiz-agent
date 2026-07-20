@@ -4,3 +4,5 @@ chromadb>=0.4.22
 sentence-transformers>=2.3.0
 duckduckgo-search>=4.4.1
 python-dotenv>=1.0.1
+torch
+torchvision
