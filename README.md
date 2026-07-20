@@ -84,14 +84,10 @@ streamlit run app.py
 
 Screenshots of the project.
 
-- Home Page<img width="1917" height="1011" alt="Screenshot 2026-07-20 164405" src="https://github.com/user-attachments/assets/0c7e5e37-46a8-4412-98a0-f7a7e9540a75" />
-<img width="1917" height="1012" alt="Screenshot 2026-07-20 164319" src="https://github.com/user-attachments/assets/ddbdfb3f-fe71-4461-8afe-034ffa65174a" />
-<img width="1917" height="1012" alt="Screenshot 2026-07-20 164125" src="https://github.com/user-attachments/assets/3d19b0e0-b313-43d8-a8f9-a8d0ce31eec6" />
-<img width="1917" height="1007" alt="Screenshot 2026-07-20 164031" src="https://github.com/user-attachments/assets/5a3d74ee-1505-4e64-a131-a383391ce0c9" />
-
-- Quiz Generated
-- Score Screen
-- RAG Evidence
+- Home Page <img width="1917" height="1011" alt="Screenshot 2026-07-20 164405" src="https://github.com/user-attachments/assets/0c7e5e37-46a8-4412-98a0-f7a7e9540a75" />
+- Quiz Generated <img width="1917" height="1012" alt="Screenshot 2026-07-20 164125" src="https://github.com/user-attachments/assets/3d19b0e0-b313-43d8-a8f9-a8d0ce31eec6" />
+- Score Screen <img width="1917" height="1012" alt="Screenshot 2026-07-20 164319" src="https://github.com/user-attachments/assets/ddbdfb3f-fe71-4461-8afe-034ffa65174a" />
+- RAG Evidence <img width="1917" height="1007" alt="Screenshot 2026-07-20 164031" src="https://github.com/user-attachments/assets/5a3d74ee-1505-4e64-a131-a383391ce0c9" />
 
 ---
 
